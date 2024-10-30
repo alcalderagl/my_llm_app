@@ -6,3 +6,4 @@
 
 3. Create  `Makefile`, `requirements.txt`, `main.py`, `Dockerfile`,`mylib/__init__.py`
 4. populate `Makefile`
+5. Build CLI using python Fire library `./cli-fire.py --help` (`chmod +x cli-fire.py`)
